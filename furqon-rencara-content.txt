@@ -3,6 +3,7 @@ RENCANA KONTENT FURQON
   * ES 6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
